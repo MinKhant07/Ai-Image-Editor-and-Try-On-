@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Image Stylist",
+  "description": "An application to edit images with text prompts or perform a virtual try-on for characters and clothes using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
